@@ -1,0 +1,3 @@
+[submodule "hexo-theme-cards"]
+	path = hexo-theme-cards
+	url = https://github.com/ChrAlpha/hexo-theme-cards.git
