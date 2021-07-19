@@ -1,7 +1,10 @@
 ---
 title: Nginx接口代理去除前缀
 date: 2021-07-16 09:58:03
-tags:
+tags: 
+- 运维
+- Nginx
+
 ---
 
 # Nginx配置接口代理去除前缀

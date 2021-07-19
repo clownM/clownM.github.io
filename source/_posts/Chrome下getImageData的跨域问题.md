@@ -1,7 +1,9 @@
 ---
 title: Chrome下getImageData的跨域问题
 date: 2018-01-05 12:04:24
-tags: canvas
+tags: 
+- javascript
+- canvas
 
 ---
 

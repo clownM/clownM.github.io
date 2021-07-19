@@ -1,7 +1,7 @@
 ---
 title: '关于split,splice和slice'
 date: 2018-03-09 20:21:41
-tags: 原生js
+tags: javascript
 ---
 
 1.split()方法是用于把一个字符串分割成字符串数组。
